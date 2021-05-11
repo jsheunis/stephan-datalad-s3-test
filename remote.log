@@ -1,1 +1,2 @@
+b162693e-d979-41c2-a4ae-ce4fe76b514b bucket=public-bucket-jsheunis datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1620762783.22853s
 ce999357-7e75-4526-9b67-8233d73515ad bucket=pubs3-ce999357-7e75-4526-9b67-8233d73515ad datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes publicurl=https://pubs3-ce999357-7e75-4526-9b67-8233d73515ad.s3.amazonaws.com storageclass=STANDARD type=S3 timestamp=1620736213.368353s
